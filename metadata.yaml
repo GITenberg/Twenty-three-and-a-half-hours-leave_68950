@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '7318'
     url: http://www.gutenberg.org/2009/agents/7318
     wikipedia: https://en.wikipedia.org/wiki/May_Wilson_Preston
+covers:
+- cover_type: archival
+  image_path: 68950-h/images/cover.jpg
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/183
     wikipedia: https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68950#Twenty-three-and-a-half-hours-leave
 gutenberg_issued: '2022-09-09'
 identifiers:
   gutenberg: '68950'
